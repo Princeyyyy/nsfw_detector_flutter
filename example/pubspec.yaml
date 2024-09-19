@@ -10,11 +10,11 @@ dependencies:
     sdk: flutter
   nsfw_detector_flutter:
     path: ../
+  integration_test:
+    sdk: flutter
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter
-  integration_test:
     sdk: flutter
 
 flutter:
